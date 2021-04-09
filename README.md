@@ -8,4 +8,4 @@
 
 &nbsp;
 
-:link: https://dmssantos.github.io/jogo-da-velha/
+:link: https://dmssantos.github.io/Jogo_da_velha/
